@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot correctly added 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="MuiPaper-root-10 MuiPaper-elevation4-16 MuiAppBar-root-1 MuiAppBar-positionStatic-5 MuiAppBar-colorPrimary-8"
+  >
+    <div
+      className="MuiToolbar-root-37 MuiToolbar-regular-39 MuiToolbar-gutters-38"
+    >
+      <h2
+        className="MuiTypography-root-41 MuiTypography-h5-57 MuiTypography-gutterBottom-68"
+        style={
+          Object {
+            "color": "#ffffff",
+            "margin": "auto",
+            "paddingTop": 10,
+          }
+        }
+      >
+        OMDB
+      </h2>
+    </div>
+  </header>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "flexDirection": "column",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "alignSelf": "center",
+          "margin": 20,
+        }
+      }
+    >
+      <button
+        className="MuiButtonBase-root-102 MuiButton-root-76 MuiButton-outlined-84 MuiButton-outlinedPrimary-85"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        style={
+          Object {
+            "margin": 5,
+          }
+        }
+        tabIndex="0"
+        type="button"
+      >
+        <span
+          className="MuiButton-label-77"
+        >
+          movie
+        </span>
+        <span
+          className="MuiTouchRipple-root-105"
+        />
+      </button>
+      <button
+        className="MuiButtonBase-root-102 MuiButton-root-76 MuiButton-outlined-84 MuiButton-outlinedPrimary-85"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        style={
+          Object {
+            "margin": 5,
+          }
+        }
+        tabIndex="0"
+        type="button"
+      >
+        <span
+          className="MuiButton-label-77"
+        >
+          game
+        </span>
+        <span
+          className="MuiTouchRipple-root-105"
+        />
+      </button>
+      <button
+        className="MuiButtonBase-root-102 MuiButton-root-76 MuiButton-outlined-84 MuiButton-outlinedPrimary-85"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        style={
+          Object {
+            "margin": 5,
+          }
+        }
+        tabIndex="0"
+        type="button"
+      >
+        <span
+          className="MuiButton-label-77"
+        >
+          series
+        </span>
+        <span
+          className="MuiTouchRipple-root-105"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
